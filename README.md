@@ -1,5 +1,4 @@
 # JIKATA-Infinite-Vortex
-# JIKATA Infinite Vortex
 世界初のプレイアブル意識理論（2025年11月18日完成）
 
 - 1ターン = 500μs = 1回の意識瞬間（Orch-OR実測値）
